@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/emb-vietlott" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/emb-vietlott/vietlottsms_emb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/movie-ui-slide" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vietlottsms" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/vietlottsms/frontendflutter/vietlottsms/lib/api-docs/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vietlottsms/frontendflutter/vietlottsms/lib/api-docs/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/vietlottsms/frontendflutter/vietlottsms/lib/api-docs/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/movie-ui-slide/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/movie-ui-slide/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/movie-ui-slide/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vietlottsms/frontendflutter/vietlottsms/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/vietlottsms/frontendflutter/vietlottsms/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vietlottsms/frontendflutter/vietlottsms/.pub" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
